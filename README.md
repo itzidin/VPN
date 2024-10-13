@@ -65,7 +65,7 @@ Disadvantages: More complex to set up compared to some of the more classic proto
 
 - **Logging**: Many VPN providers log user activities. It is of vital importance to go with a provider who does not log anything when privacy is key.
 
--**Data Leaks**: Badly configured VPNs could leak your IP address via DNS, WebRTC, or IPv6 leaks. A decent VPN should not leak anything at all.
+- **Data Leaks**: Badly configured VPNs could leak your IP address via DNS, WebRTC, or IPv6 leaks. A decent VPN should not leak anything at all.
 - **Trustworthiness**: It would always be significant to choose a trusted service for a VPN, as data will route through their servers.
 ## VPN vs. Proxy
 
