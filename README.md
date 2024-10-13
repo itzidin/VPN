@@ -18,7 +18,7 @@ When you connect to a VPN:
  - **OpenVPN**: Free, Secure, and quite popular.
  - **WireGuard**: Newer, faster protocol with much simpler code.
  - **IPSec**: Mostly used along with L2TP for a secure connection.
-IKEv2: Excellent for mobile users since it can withstand changes to network connectivity easily. V2Ray: Is used by many to bypass censorship imposed by governments with severe restrictions on the internet. Common VPN Uses 1. Privacy and Anonymity: VPN masks the user's IP address and encrypts traffic, thereby not enabling the tracking of online activities by websites, ISPs, or hackers.
+- **IKEv2**: Excellent for mobile users since it can withstand changes to network connectivity easily. V2Ray: Is used by many to bypass censorship imposed by governments with severe restrictions on the internet. Common VPN Uses 1. Privacy and Anonymity: VPN masks the user's IP address and encrypts traffic, thereby not enabling the tracking of online activities by websites, ISPs, or hackers.
 
 2. **Bypassing Geo-Restrictions**: Using VPNs allows users to access such websites and services that are restricted or blocked in a specific country. These include libraries of Netflix, social media, among others.
 3. **Security over Public Wi-Fi**: Since data is usually transmitted in unencrypted forms over public Wi-Fi, which can be accessed by any hacker, VPNs secure this data.
